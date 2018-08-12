@@ -4,6 +4,8 @@ This driver supports Ralink / Mediatek mt766u, mt7632u and mt7612u chipsets.
 In particular, the driver supports several USB dongles such as Netgear-A6210,
 ASUS USB-AC55, ASUS USB-N53 and EDUP EP-AC1601. 
 
+Linux kernel version up to 4.17 has been tested.
+
 To build the driver, follow these steps:
 
     $ git clone https://github.com/jurobystricky/Netgear-A6210
