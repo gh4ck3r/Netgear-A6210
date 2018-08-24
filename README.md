@@ -8,7 +8,7 @@ Linux kernel version up to 4.17 has been tested.
 
 To build the driver, follow these steps:
 
-    $ git clone https://github.com/jurobystricky/Netgear-A6210
+    $ git clone https://github.com/kaduke/Netgear-A6210
     $ cd Netgear-A6210
     $ make
     $ sudo make install
