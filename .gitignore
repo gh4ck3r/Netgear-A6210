@@ -7,3 +7,5 @@ os/linux/Makefile
 os/linux/Module.symvers
 os/linux/modules.order
 os/linux/mt7662u_sta.mod.c
+os/linux/.cache.mk
+os/linux/rt_linux.o.ur-safe
